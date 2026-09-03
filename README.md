@@ -50,4 +50,4 @@ PostgreSQL and Gradle.
 
 ## 📫 Connect With Me
 
-🌐 [Portfolio](https://molebatso.github.io/Maesela_Portfolio/)
+🌐 [Portfolio](https://clever-core-dev.lovable.app)

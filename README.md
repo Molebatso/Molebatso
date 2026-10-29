@@ -8,8 +8,8 @@ and AI-powered applications.
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer at CAPACITI
-- 🎓 National Diploma in Software Development
+- 💻 Full Stack Developer
+- 🎓 National Diploma in Software Development & Advanced Diploma in Computer Science
 - 🌱 Currently developing my skills in Cloud, AI and DevOps
 - 🔭 Interested in Software Engineering, Full Stack Development and AI
 - 📍 South Africa
